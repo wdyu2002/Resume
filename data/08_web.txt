@@ -1,0 +1,60 @@
+[GRP] Yellow Duck Media
+
+* YDM Shopping Cart Server
++ JSP, Tomcat
++ Amazon EC2, S3, SDB
++ Amazon, Google, Paypal APIs
+- images/screenshots/ydm_server_ss1.png
+- images/screenshots/ydm_server_ss2.png
+- images/screenshots/ydm_server_ss3.png
+- images/screenshots/ydm_server_ss4.png
+
+---
+
+[GRP] Atomic Bullfrogs LLC
+
+* Server Development and Management
++ Streaming music server
++ Multiplayer socket server
++ MySQL users database
++ Subversion server
+
+---
+
+[GRP] DevCulture LLC
+
+* Website Development
++ '10-'11 www.dannyandiris.com
++ '10-'11 www.danny-yu.com
++ '09-'11 www.devculture.com
++ '08-'09 www.kronosgo.com
++ '03-'03 www.studentdollarstretcher.com
++ '03-'05 www.ucsdpaphi.com
++ '00-'05 www.az4.net
+- images/screenshots/website_ss01.png
+- images/screenshots/website_ss02.png
+- images/screenshots/website_ss03.png
+- images/screenshots/website_ss04.png
+
+---
+
+[GRP] Sms.ac Corp
+
+* Feature Development - Profile Themes
++ Asp.net, C#, Javascript, Sql Server
+
+* Embedded Flash movie player
++ Flex Actionscript
+
+* Site-speed optimization
+
+* Configuration Management
+
+---
+
+[GRP] Zaxis Technologies Corp
+
+* Zaxis Bug-tracking Database
++ Apache, Php, Mysql
+
+---

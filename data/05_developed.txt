@@ -1,0 +1,410 @@
+[GRP] iPhone Development
+
+---
+
+[GRP] 
+
+* Supply-Vision <span class="inlineCompanyName">(Eightbit Studios)</span>
+
+- images/screenshots/iphone_supply_vision_a_sm.png
+- images/screenshots/iphone_supply_vision_b_sm.png
+- images/screenshots/iphone_supply_vision_c_sm.png
+- images/screenshots/iphone_supply_vision_d_sm.png
+
+---
+
+[GRP] 
+
+* Yesterday's Zoo <span class="inlineCompanyName">(Eightbit Studios)</span>
+
+- images/screenshots/ipad_yesterdayszoo_a_sm.png
+- images/screenshots/ipad_yesterdayszoo_b_sm.png
+- images/screenshots/ipad_yesterdayszoo_c_sm.png
+- images/screenshots/ipad_yesterdayszoo_d_sm.png
+
+---
+
+[GRP] 
+
+* DriveCam iPad <span class="inlineCompanyName">(Seamgen)</span>
+
+- images/screenshots/ipad_drivecam_a_sm.png
+- images/screenshots/ipad_drivecam_b_sm.png
+
+---
+
+[GRP] 
+
+* Mobile Body & Mind Holiday Tips <span class="inlineCompanyName">(Yellow Duck Media)</span>
+* The Best of B-Boys <span class="inlineCompanyName">(Yellow Duck Media)</span>
+* G-Style Mobile <span class="inlineCompanyName">(Yellow Duck Media)</span>
+* Snowboard Mayhem <span class="inlineCompanyName">(Yellow Duck Media)</span>
+* Jeri-Lee Life & Times <span class="inlineCompanyName">(Yellow Duck Media)</span>
+
+- images/screenshots/showapp01.png
+- images/screenshots/showapp02.png
+- images/screenshots/showapp04.png
+- images/screenshots/showapp05.png
+
+---
+
+[GRP] 
+
+* Lego Duplo <span class="inlineCompanyName">(Manifest Digital)</span>
+
+- images/screenshots/iphone_duplo_a.png
+- images/screenshots/iphone_duplo_b.png
+- images/screenshots/iphone_duplo_c.png
+
+---
+
+[GRP] 
+
+* Meteor Attack <span class="inlineCompanyName">(DevCulture)</span>
+
+- images/screenshots/iphone_meteor_a.png
+- images/screenshots/iphone_meteor_b.png
+- images/screenshots/iphone_meteor_c.png
+
+---
+
+[GRP] 
+
+* iLaunched a Sheep <span class="inlineCompanyName">(Atomic Bullfrogs)</span>
+
+- images/screenshots/iphone_ilaunched_a.png
+- images/screenshots/iphone_ilaunched_b.png
+- images/screenshots/iphone_ilaunched_c.png
+- images/screenshots/iphone_ilaunched_d.png
+
+---
+
+[GRP] 
+
+* Action Bowling <span class="inlineCompanyName">(Atomic Bullfrogs)</span>
+
+- images/screenshots/iphone_actionbowling_a.png
+- images/screenshots/iphone_actionbowling_b.png
+- images/screenshots/iphone_actionbowling_c.png
+- images/screenshots/iphone_actionbowling_d.png
+
+---
+
+[GRP] 
+
+* Disney's All-Star Cards <span class="inlineCompanyName">(Disney)</span>
+
+- images/screenshots/iphone_dasc_a.png
+- images/screenshots/iphone_dasc_b.png
+- images/screenshots/iphone_dasc_c.png
+- images/screenshots/iphone_dasc_d.png
+
+---
+
+[GRP] 
+
+* Jailbreak Detection Library <span class="inlineCompanyName">(Verimatrix)</span>
+* Android/iPhone Cross-Platform Movie Player API <span class="inlineCompanyName">(Digital Munch)</span>
+
+---
+
+[HR]
+[GRP] Android Development
+
+---
+
+[GRP] 
+
+* IDair Fingerprint Scan <span class="inlineCompanyName">(IDair)</span>
+
+- images/screenshots/android_idair_01_sm.png
+- images/screenshots/android_idair_02_sm.png
+
+---
+
+[GRP] 
+
+* RamLabs Secure Chat <span class="inlineCompanyName">(RamLabs)</span>
+
+- images/screenshots/android_secureim_01_sm.png
+- images/screenshots/android_secureim_02_sm.png
+
+---
+
+[GRP] 
+
+* FLXview <span class="inlineCompanyName">(Veracity)</span>
+
+- images/screenshots/android_flxview_a_sm.png
+- images/screenshots/android_flxview_b_sm.png
+- images/screenshots/android_flxview_c_sm.png
+- images/screenshots/android_flxview_d_sm.png
+
+---
+
+[GRP] 
+
+* NDK: VNC Device Controller <span class="inlineCompanyName">(Virago)</span>
+
+- images/screenshots/android_vnc_a_sm.png
+- images/screenshots/android_vnc_b_sm.png
+- images/screenshots/android_vnc_c_sm.png
+
+---
+
+[GRP] 
+
+* NDK: Qualcomm Navigator <span class="inlineCompanyName">(Qualcomm)</span>
+
+- images/screenshots/android_qnav_a.png
+- images/screenshots/android_qnav_b.png
+- images/screenshots/android_qnav_c.png
+- images/screenshots/android_qnav_d.png
+
+---
+
+[GRP] 
+
+* Snowy Day Live-Wallpaper <span class="inlineCompanyName">(DevCulture)</span>
+* Ad campaign Live-Wallpaper <span class="inlineCompanyName">(DevCulture)</span>
+
+- images/screenshots/livewallpaper_ss1.png
+- images/screenshots/livewallpaper_ss2.png
+- images/screenshots/livewallpaper_ss3.png
+- images/screenshots/livewallpaper_ss4.png
+
+---
+
+[GRP] 
+
+* Models in Mobile <span class="inlineCompanyName">(Tactel US)</span>
+
+- images/screenshots/android_mim_a.png
+- images/screenshots/android_mim_b.png
+
+---
+
+[GRP] 
+
+* Disney's All-Star Cards <span class="inlineCompanyName">(Disney)</span>
+
+- images/screenshots/iphone_dasc_a.png
+- images/screenshots/iphone_dasc_b.png
+- images/screenshots/iphone_dasc_c.png
+- images/screenshots/iphone_dasc_d.png
+
+---
+
+[GRP] 
+
+* Cross-Platform Movie Player API <span class="inlineCompanyName">(Digital Munch)</span>
+
+---
+
+[HR]
+[GRP] J2ME Development
+
+---
+
+[GRP] 
+
+* Nokia Browser <span class="inlineCompanyName">(Nokia)</span>
+
+- images/screenshots/j2me_ovibrowser_a.png
+- images/screenshots/j2me_ovibrowser_b.png
+- images/screenshots/j2me_ovibrowser_c.png
+
+---
+
+[GRP] 
+
+* Media Player Demo <span class="inlineCompanyName">(Tactel)</span>
+
+- images/screenshots/j2me_mplayer_a.png
+- images/screenshots/j2me_mplayer_b.png
+- images/screenshots/j2me_mplayer_c.png
+
+---
+
+[GRP] 
+
+* Contra 4 <span class="inlineCompanyName">(Konami)</span>
+
+- images/porting/Contra4_SplashScreen_133x141.png
+- images/porting/Contra4_SS1_133x141.png
+- images/porting/Contra4_SS2_133x141.png
+- images/porting/Contra4_SS3_133x141.png
+
+---
+
+[GRP]
+
+* DriveAlert <span class="inlineCompanyName">(Protext)</span>
+* Disney's All-Star Cards <span class="inlineCompanyName">(Disney)</span>
+* Endless Snake <span class="inlineCompanyName">(DevCulture)</span>
+* Slot Machine Royale <span class="inlineCompanyName">(DevCulture)</span>
+* R4Mobile Ad-Wrapper MIDlet <span class="inlineCompanyName">(R4Mobile)</span>
+
+---
+
+[HR]
+[GRP] J2SE Development
+
+---
+
+[GRP] 
+
+* Texture Atlas Creator <span class="inlineCompanyName">(DevCulture)</span>
+
+- images/screenshots/j2se_texturetool.png
+
+---
+
+[GRP] 
+
+* Apple Sales Report for iTunes Connect <span class="inlineCompanyName">(DevCulture)</span>
+
+- images/screenshots/j2se_reporting_a.png
+- images/screenshots/j2se_reporting_b.png
+
+---
+
+[GRP] 
+
+* Chat Server and Client <span class="inlineCompanyName">(Tactel)</span>
+
+- images/screenshots/j2se_tcc.png
+
+---
+
+[GRP] 
+
+* 2D Top-Down Level Designer <span class="inlineCompanyName">(Atomic Bullfrogs)</span>
+
+- images/screenshots/map_generator.png
+
+---
+
+[GRP] 
+
+* WTK Network Monitor extension <span class="inlineCompanyName">(Nokia)</span>
+* REST Endpoint parser <span class="inlineCompanyName">(Seamgen)</span>
+* VNC Device Controller Server <span class="inlineCompanyName">(Virago)</span>
+* Multiplayer socket server <span class="inlineCompanyName">(Atomic Bullfrogs)</span>
+* XML Animation Binary Packer <span class="inlineCompanyName">(Disney)</span>
+* Excel to XML Exporter tool <span class="inlineCompanyName">(DevCulture)</span>
+
+---
+
+[HR]
+[GRP] Web Development (Rails, JSP, ASP, PHP, SQL, FLEX)
+
+---
+
+[GRP] 
+
+* Rails: JobCouch <span class="inlineCompanyName">(HireVerse Inc)</span>
+
+- images/screenshots/ror_jobcouch_01_sm.png
+- images/screenshots/ror_jobcouch_02_sm.png
+- images/screenshots/ror_jobcouch_03_sm.png
+- images/screenshots/ror_jobcouch_04_sm.png
+
+---
+
+[GRP] 
+
+* Rails: CareerRev <span class="inlineCompanyName">(CareerRev)</span>
+
+- images/screenshots/ror_careerrev_01_sm.png
+- images/screenshots/ror_careerrev_02_sm.png
+- images/screenshots/ror_careerrev_03_sm.png
+- images/screenshots/ror_careerrev_04_sm.png
+
+---
+
+[GRP] 
+
+* ASP: FieldLogix <span class="inlineCompanyName">(FieldLogix)</span>
+
+- images/screenshots/cs_fieldlogixgps_01_sm.png
+- images/screenshots/cs_fieldlogixgps_02_sm.png
+- images/screenshots/cs_fieldlogixgps_03_sm.png
+- images/screenshots/cs_fieldlogixgps_04_sm.png
+
+---
+
+[GRP] 
+
+* JSP: Shopping Cart Server <span class="inlineCompanyName">(Yellow Duck Media)</span>
+
+- images/screenshots/ydm_server_ss1.png
+- images/screenshots/ydm_server_ss2.png
+- images/screenshots/ydm_server_ss3.png
+- images/screenshots/ydm_server_ss4.png
+
+---
+
+[GRP] 
+
+* ASP: FieldLogix RESTful services API <span class="inlineCompanyName">(FieldLogix)</span>
+* Rails: FLXview RESTful services API <span class="inlineCompanyName">(Veracity)</span>
+* PHP: Website <span class="inlineCompanyName">(www.danny-yu.com)</span>
+* ASP: Theme feature development <span class="inlineCompanyName">(SMS.ac)</span>
+* FLEX: Streaming movie player <span class="inlineCompanyName">(SMS.ac)</span>
+* PHP: Zaxis Bug-tracking Database <span class="inlineCompanyName">(Zaxis)</span>
+
+---
+
+[HR]
+[GRP] Misc Development (C#, Python, NSIS, JS, C++)
+
+---
+
+[GRP] 
+
+* C#: J2ME and BREW Emulator Gateway <span class="inlineCompanyName">(DevCulture)</span>
+* C#: Test Buddy: Flashcards <span class="inlineCompanyName">(DevCulture)</span>
+* Python: JNI Source-code Script <span class="inlineCompanyName">(Tactel)</span>
+* Python: File DVD Backup Script <span class="inlineCompanyName">(Tactel)</span>
+* NSIS: Installer for J2ME and BREW SDK & tools <span class="inlineCompanyName">(DevCulture)</span>
+* NSIS: Installer for Apache, PHP, and MySQL <span class="inlineCompanyName">(DevCulture)</span>
+* NSIS: Installer for Trac w/ SVN support <span class="inlineCompanyName">(DevCulture)</span>
+* JavaScript: Firefox FlashGot Plugin <span class="inlineCompanyName">(DevCulture)</span>
+* C++: BREW BBF Font Generator <span class="inlineCompanyName">(Zaxis)</span>
+
+---
+
+[HR]
+[GRP] Porting Titles (J2ME, BREW, Blackberry)
+
+---
+
+[GRP] 
+
+* High School Musical <span class="inlineCompanyName">(Disney)</span>
+* Disney's Mini-Golf <span class="inlineCompanyName">(Disney)</span>
+* Pirates of the Caribbean: At World's End <span class="inlineCompanyName">(Disney)</span>
+* Fruitfall <span class="inlineCompanyName">(Konami)</span>
+* Frogger Launch <span class="inlineCompanyName">(Konami)</span>
+* Professor Fizzwizzle <span class="inlineCompanyName">(Konami)</span>
+* Gradius Neo <span class="inlineCompanyName">(Konami)</span>
+* Castlevania <span class="inlineCompanyName">(Konami)</span>
+* Dance Dance Revolution 3D <span class="inlineCompanyName">(Konami)</span>
+* Pirate Poppers <span class="inlineCompanyName">(Konami)</span>
+* Track & Field <span class="inlineCompanyName">(Konami)</span>
+* SkillJam API Demo <span class="inlineCompanyName">(Zaxis)</span>
+* Ghostbusters <span class="inlineCompanyName">(Zaxis)</span>
+* Wheel of Fortune <span class="inlineCompanyName">(Zaxis)</span>
+* Jeopardy <span class="inlineCompanyName">(Zaxis)</span>
+* FIFA 2006 <span class="inlineCompanyName">(Zaxis)</span>
+* Snoopy and the Red Baron <span class="inlineCompanyName">(Zaxis)</span>
+* Pirates of the Caribbean: Dead Man's Chest <span class="inlineCompanyName">(Zaxis)</span>
+* Scarface <span class="inlineCompanyName">(Zaxis)</span>
+
+- images/porting/pirates_dead_mans_chest_2.png
+- images/porting/pirates_dead_mans_chest_4.png
+- images/porting/scarface_01.png
+- images/porting/scarface_03.png
+
+---

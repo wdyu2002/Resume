@@ -1,0 +1,21 @@
+#wrap {
+background:#fff;
+margin:0;
+}
+
+#content {
+margin:0;
+}
+
+#sidebarTitleSubtext {
+margin:-1.2em 0 0em 8.7em;
+}
+
+#resume {
+padding:0;
+}
+
+#resumeContact {
+padding-top:1.45em;
+padding-right:2em;
+}

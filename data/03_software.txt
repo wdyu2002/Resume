@@ -1,0 +1,16 @@
+XCode
+Visual Studio .NET 2003-2010
+Eclipse
+SQL Server / MySQL
+SVN / GIT / CVS
+Perforce / Accurev
+Jira / Trac / Pivotal
+J2ME Wireless Toolkit
+BREW SDK & Tools
+Apache HTTP / Tomcat
+Rails
+DOS / UNIX
+MS Office / Project / Visio
+StarUML
+Adobe Photoshop / Illustrator
+Autodesk Maya

@@ -1,0 +1,63 @@
+[GRP] Yellow Duck Media
+
+* Mobile Body & Mind Holiday Tips
+* The Best of B-Boys
+* G-Style Mobile
+* Snowboard Mayhem
+* Jeri-Lee Life & Times
+
+- images/screenshots/showapp01.png
+- images/screenshots/showapp02.png
+- images/screenshots/showapp04.png
+- images/screenshots/showapp05.png
+
+---
+
+[GRP] Manifest Digital
+
+* Lego Duplo
+
+- images/screenshots/iphone_duplo_a.png
+- images/screenshots/iphone_duplo_b.png
+- images/screenshots/iphone_duplo_c.png
+
+---
+
+[GRP] Digital Munch LLC
+
+* Android/iPhone Cross-Platform Movie Player API
+
+---
+
+[GRP] DevCulture LLC
+
+* Meteor Attack
+
+- images/screenshots/iphone_meteor_a.png
+- images/screenshots/iphone_meteor_b.png
+- images/screenshots/iphone_meteor_c.png
+
+---
+
+[GRP] Atomic Bullfrogs LLC
+
+* iLaunched a Sheep
+* Action Bowling
+
+- images/screenshots/iphone_ilaunched_a.png
+- images/screenshots/iphone_ilaunched_d.png
+- images/screenshots/iphone_actionbowling_a.png
+- images/screenshots/iphone_actionbowling_d.png
+
+---
+
+[GRP] Disney Interactive Media Group
+
+* Disney's All-Star Cards
+
+- images/screenshots/iphone_dasc_a.png
+- images/screenshots/iphone_dasc_b.png
+- images/screenshots/iphone_dasc_c.png
+- images/screenshots/iphone_dasc_d.png
+
+---

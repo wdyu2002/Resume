@@ -1,0 +1,45 @@
+[GRP] Virago Corporation
+
+* Client (Android NDK)
++ Specifics under NDA
+
+---
+
+[GRP] DevCulture LLC
+
+* Snowy Day Live-Wallpaper
+* Ad campaign Live-Wallpaper
+- images/screenshots/livewallpaper_ss1.png
+- images/screenshots/livewallpaper_ss2.png
+- images/screenshots/livewallpaper_ss3.png
+- images/screenshots/livewallpaper_ss4.png
+
+---
+
+[GRP] Tactel US
+
+* Models in Mobile
+* Qualcomm Navigator (Android NDK)
+- images/screenshots/android_mim_a.png
+- images/screenshots/android_mim_b.png
+- images/screenshots/android_qnav_a.png
+- images/screenshots/android_qnav_c.png
+
+---
+
+[GRP] Digital Munch LLC
+
+* Android/iPhone Cross-Platform Movie Player API
+
+---
+
+[GRP] Disney Interactive Media Group
+
+* Disney's All-Star Cards
+
+- images/screenshots/iphone_dasc_a.png
+- images/screenshots/iphone_dasc_b.png
+- images/screenshots/iphone_dasc_c.png
+- images/screenshots/iphone_dasc_d.png
+
+---

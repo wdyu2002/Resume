@@ -1,0 +1,200 @@
+/** global **/
+
+body {
+font-size:10pt;
+margin:0;
+}
+
+ul {
+margin:0;
+padding:0 0 0 1.5em;
+}
+
+A:link, A:visited, A:active {
+color:#b5b5b5;
+text-decoration:none;
+}
+
+A:hover {
+color:#5f5f64;
+text-decoration:none;
+}
+
+hr {
+height:1px;
+padding:0px;
+padding-bottom:5px;
+border:none;
+border-top:solid #000 1px;
+}
+
+.fontsize40 {
+font-size:2.5em;
+}
+
+.imageBorder {
+border-style:solid;
+border-width:10px;
+border-color:#eef6fd;
+}
+
+/** document **/
+
+#wrap {
+background:#eef6fd;
+font-family:tahoma, verdana, arial, times;
+font-size:1.0em;
+margin:0 0 0 33px;
+}
+
+#content {
+background:#fff;
+margin:0 0 0 18.5em;
+padding:0;
+min-width:800px;
+}
+
+/** sidebar **/
+
+#sidebar {
+float:left;
+width:18.5em;
+}
+
+#sidebarContainer {
+float:left;
+}
+
+#sidebarTitle {
+color:#5f5f64;
+font-size:6.3em;
+margin:-0.3em 0 0 0;
+padding:0 0 0 0.22em;
+}
+
+#sidebarTitleSubtext {
+color:#b5b5b5;
+margin:-1.2em 0 12.5em 8.7em;
+}
+
+.sidebarLink {
+text-align:right;
+background:#fff;
+color:#b5b5b5;
+font-size:27px;
+padding:0.18em 0.25em 0 0.8em;
+}
+
+.sidebarLinkText {
+padding:0 10px 5px 0;
+margin-top:-5px;
+font-size:1.0em;
+}
+
+.sidebarSpacer {
+background:#fff;
+height:0.4em;
+}
+
+/** resume **/
+
+#resume {
+padding:1em 0 0 0;
+margin:0 2em 0 2em;
+}
+
+#resumeContact {
+text-align:right;
+}
+
+.resumeDivider {
+margin:1em 0 1em 0;
+border-bottom:1px solid #000;
+}
+
+/** column layouts **/
+
+.titleColumnLeft {
+float:left;
+font-weight:bold;
+width:10em;
+}
+
+.contentColumnRight {
+margin-left:10em;
+_width:100%;
+}
+
+.splitColumnLeft {
+float:left;
+width:48%;
+}
+
+.splitColumnRight {
+float:right;
+width:48%;
+}
+
+.workListGroup {
+padding:0.25em 0 0 1.5em;
+}
+
+.workListText {
+
+}
+
+.workListTitle {
+
+}
+
+.workListComment {
+
+}
+
+.workListSubtext {
+
+}
+
+/** company **/
+
+.companyDate {
+font-size:1.0em;
+}
+
+.companyName {
+font-size:1.0em;
+font-weight:bold;
+}
+
+.companyPosition {
+font-size:1.0em;
+font-weight:bold;
+}
+
+.inlineCompanyName {
+color:#000;
+font-style:italic;
+}
+
+/** footer **/
+
+#footer {
+font-size:0.7em;
+color:#888;
+font-weight:none;
+text-align:right;
+padding-bottom:1.5em;
+}
+
+.clearBoth {
+height:0;
+clear:both;
+}
+
+.clearLeft {
+clear:left;
+}
+
+.clearRight {
+clear:right;
+}

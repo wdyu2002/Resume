@@ -1,0 +1,117 @@
+[DUR] 01/15 - Present
+[POS] Developer @ Amgen Inc, Thousand Oaks CA
+
+* Implement Android application to help with patient adherence.
+* Integration with HIPAA compliant MBaaS (NoSQL).
+* Integration with GoogleFit and Maps framework.
+* Integration with NewRelic for real-time analytics.
+* Wrote documentation for application architecture.
+* Implement AngularJS web portal for overseeing patient progress.
+
+---
+
+[HR]
+[DUR] 03/14 - 12/14
+[POS] Developer @ Conversant Inc, Westlake Village CA
+
+* Implement adherence to agile development principles.
+* Implement continuous integration into development cycle.
+* Source code management.
+* Source code review for iOS, Android, and PHP applications.
+* Development on internal applications PHP website.
+* Development on internal tools PHP website.
+* Development on internal solution for flash to html5 conversion.
+
+---
+
+[HR]
+[DUR] 08/10 - 3/14
+[POS] Tech Lead @ Nokia Inc, Itasca IL
+
+* Lead team of 9 engineers, and 2 QA.
+* Mentor team members in different facets of the product.
+* Created an efficient setup process that cut setup times from 1 day to 30 minutes.
+* Created an efficient build process that cut build times from 2 minutes to negligible time.
+* Created system to track individual velocities to address the lack of accountability in the organization.
+* Created tool in J2SE to verify translation drops.
+* Made valuable contributions to the organization's move towards the Agile development process.
+* Consistently hit deadlines through good planning & reasonable estimates.
+* Promote team bonding through team events.
+* Altered existing J2SE development tool from Oracle to facilitate the development process.
+* Development of Android Chromium-based browser for the Nokia X.
+* Development of new features for the Nokia Browser in J2ME.
+* Maintained the core legacy product using a variety of HTML, JavaScript, and Java knowledge.
+* Solve difficult problems through creative thinking.
+* Lecturer for Agile Day 2014.
+* Lecturer for Learning Something New: BDD.
+* Lecturer for Learning Something New: Code Smells.
+
+---
+
+[HR]
+[DUR] 05/09 - 07/10
+[POS] Sr. Software Engineer @ Tactel US, San Diego CA
+
+* Lead team of 4 off-shore developers.
+* Navigation app architecture and development on Android NDK over OpenGL, OpenVG, and EGL.
+* Music player development in J2ME.
+* Chat app development in J2SE.
+* Wrote Python scripts to facilitate development process.
+* Guest speaker at Qualcomm's Uplinq conference.
+
+---
+
+[HR]
+[DUR] 10/08 - 05/09
+[POS] Sr. Software Engineer @ Atomic Bullfrog LLC, Pasadena CA
+
+* Start-up founder.
+* Mobile game development on 2 very successful titles in iOS.
+* Created 2D game engine over OpenGLES.
+* Created game development tools in J2SE.
+* Database, Apache, and Subversion server management.
+* Website development using HTML, and JavaScript.
+
+---
+
+[HR]
+[DUR] 10/07 - 10/08
+[POS] Software Developer @ Disney Interactive Media Group, Burbank CA
+
+* Mobile game development in iOS, Android via OpenGL, and in J2ME.
+* Mobile game porting for J2ME and Blackberry platforms across multiple carriers.
+* Created game development tools in J2SE.
+* Winner of the quarterly Disney Buzz Award for Teamwork and Collaboration.
+
+---
+
+[HR]
+[DUR] 04/07 - 10/07
+[POS] Software Developer @ Konami Digital Entertainment Inc, El Segundo CA
+
+* Mobile game development in J2ME.
+* Mobile game porting for J2ME and BREW platforms across multiple carriers.
+* Cross-platform game porting from J2ME to BREW.
+
+---
+
+[HR]
+[DUR] 10/06 - 02/07
+[POS] Software Engineer I @ SMS.ac, San Diego CA
+
+* Web development in ASP.NET, SQL Server, and JavaScript libraries.
+* Streaming video player in Actionscript FLEX.
+* Configuration management for internal servers.
+
+---
+
+[HR]
+[DUR] 08/05 - 10/06
+[POS] Software Engineer @ Zaxis Technologies Inc, San Diego CA
+
+* Mobile game porting for J2ME and BREW platforms across multiple carriers.
+* Cross-platform application porting from J2ME to BREW.
+* Developed internal bug-tracking database in PHP.
+* BREW tool development in C++.
+
+---

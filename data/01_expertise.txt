@@ -1,0 +1,9 @@
+Mobile application development in iOS, Android, J2ME, and BREW.
+3D game development in iOS and Android with OpenGLES.
+Design and create responsive sites with Rails, PHP, ASP.NET 2.0, or JSP.
+Database design & management.
+Architecture for reusable software.
+Tool development for workflow efficiency.
+Linode cloud server management & node balancing.
+Source code management, concurrent and distributed.
+Well-versed in Agile development cycle.
